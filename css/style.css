@@ -1,0 +1,22 @@
+p, h1 {
+    color: red;
+}
+
+.end {
+    color: royalblue;
+}
+
+#first {
+    color: green;
+}
+
+.container {
+    background-color: gray;
+    height: 100px;
+    width: 50%;
+    padding: 10px;
+}
+
+.container #first {
+    color: gold;
+}
